@@ -6,7 +6,7 @@
 
 # Trailer
 
-https://github.com/TechnoLoshara/Pixel-Experience-Installer-for-Redmi-10/assets/157511507/bf2d0c34-8653-4750-bd9e-a21f3d6a62d1
+https://github.com/TechnoLoshara/PixelExperience-Installer-for-Redmi-10/assets/157511507/bf2d0c34-8653-4750-bd9e-a21f3d6a62d1
 
 # Contains
 
@@ -24,8 +24,8 @@ https://github.com/TechnoLoshara/Pixel-Experience-Installer-for-Redmi-10/assets/
 1. Unlock the bootloader.
 2. Boot into Fastboot.
 3. Download [this](https://github.com/ponces/treble_build_pe/releases) ROM.
-4. copy the unpacked ROM <sub>(system.img)</sub> to the platform-tools folder, which is located in the directory with the script.
-5. Run the "PixelExperience Installer.bat", follow the next steps.
+4. Copy the unpacked ROM <sub>(system.img)</sub> to the platform-tools folder, which is located in the directory with the script.
+5. Unzip the "PixelExperience installer for Redmi 10.zip", run the "PixelExperience Installer.bat", follow the next steps.
 
  </details>
 
