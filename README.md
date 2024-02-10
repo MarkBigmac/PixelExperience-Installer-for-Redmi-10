@@ -22,4 +22,4 @@ https://github.com/TechnoLoshara/Pixel-Experience-Installer-for-Redmi-10/assets/
 [<img src="https://ruspublic18.ru/public/style_extra/other/download.png" width=30% height=15%>](https://drive.google.com/file/d/1-n56tJspkZEyQIorMv0XDIVvPmClgD5p/view?usp=drive_link)
 
 # Information
-:Warning: By running the script, you agree that you perform all actions at your own risk. Devices running on MediaTek processors are easy to brick in case of an unsuccessful ROM firmware process. Be careful, and do not disconnect, do not touch the phone and the wire during the process.
+:warning: By running the script, you agree that you perform all actions at your own risk. Devices running on MediaTek processors are easy to brick in case of an unsuccessful ROM firmware process. Be careful, and do not disconnect, do not touch the phone and the wire during the process.
