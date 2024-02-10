@@ -16,7 +16,19 @@ https://github.com/TechnoLoshara/Pixel-Experience-Installer-for-Redmi-10/assets/
 - Xiaomi USB Drivers
 
  </details>
- 
+
+# Installation
+
+<details><summary>Installation</summary>
+  
+1. Unlock the bootloader.
+2. Boot into Fastboot.
+3. Download [this](https://github.com/ponces/treble_build_pe/releases) ROM.
+4. Copy the ROM to the platform-tools folder, which is located in the directory with the script.
+5. Run the script, follow the next steps.
+
+ </details>
+
 # Download
 
 [<img src="https://ruspublic18.ru/public/style_extra/other/download.png" width=30% height=15%>](https://drive.google.com/file/d/1-n56tJspkZEyQIorMv0XDIVvPmClgD5p/view?usp=drive_link)
