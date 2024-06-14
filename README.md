@@ -4,10 +4,6 @@
 
 ### It contains the ROM and drivers. If you encounter any problem, a file with a description of actions that can help you is attached to the script.
 
-# Trailer
-
-https://github.com/TechnoLoshara/PixelExperience-Installer-for-Redmi-10/assets/157511507/bf2d0c34-8653-4750-bd9e-a21f3d6a62d1
-
 # Contains
 
 <details><summary>Contains</summary>
